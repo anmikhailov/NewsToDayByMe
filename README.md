@@ -1,15 +1,15 @@
 # NewsToDay
 ## Приложение для просмотра любых новостей и добавление их в избранное, так же присутсвует регистрация
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 23 49](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/9a48d605-8725-4fc8-b8c8-461145190c2e)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 23 56](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/65b878fb-ff41-4206-b76a-5914495896dd)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 24 25](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/5e5dc5db-53df-48d8-8ccc-285cf9aebaff)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 24 32](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/30eb437b-79cd-4562-bdab-a313ebe5b54a)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 24 40](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/e9e1b47a-f7a4-4107-85b6-465895ade9a9)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 27 00](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/c5124a7a-85b0-4295-b04d-a0fc2162ddae)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 27 18](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/1e6e4bb3-7615-43b3-8c9a-d7f57037ba56)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 27 23](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/22e5bbe1-2dc8-47f9-873c-0c11a40e8330)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 27 31](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/374517ba-668b-49dd-950d-810433ea9d46)
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-06-09 at 21 27 43](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/be05e6d8-a975-4ab8-9e5f-cb4de48d4baa)
+![1](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/a96b1323-045b-427c-9ffa-d3724ba6fef9)
+![2](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/9ecc6ba8-c279-4e70-b212-cd9eb9608b43)
+![3](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/a099fdb0-a456-4082-a2d7-cc1383b8e04c)
+![4](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/c2a487b3-56e2-4d49-a24d-99b297ed36d1)
+![5](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/ca8b1831-1588-4a20-a323-70fccee1187a)
+![6](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/d6ea704c-1f28-4a1d-a309-b69a1ff8b9c2)
+![7](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/cef3bc0e-e734-4121-b351-6e32caec16aa)
+![8](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/ee242ab0-333d-4d48-a6a1-779bf099c6b2)
+![9](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/f2a7ed09-cbfd-4ae1-bde3-b6ff8641026f)
+![10](https://github.com/anmikhailov/NewsToDayByMe/assets/81427166/e25ad3f2-3671-4f62-9914-fd27d22defe4)
 
 ### В разработке участвовали
 - https://github.com/skifih4x
